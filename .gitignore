@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Outputs
+*.csv
+*.gpkg
+*.kmz
+
+# ArcGIS
+*.mxd
