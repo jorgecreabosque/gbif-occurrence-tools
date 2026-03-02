@@ -1,0 +1,17 @@
+RESUMEN GBIF — Región del Maule (VII) (filtro por stateProvince contiene 'Maule')
+
+Total registros (Maule): 1413
+
+Por especie:
+
+- Citronella mucronata: 1282 registros | años 1861–2026 | municipios únicos 16 | top municipio: Chanco (603)
+- Nothofagus alessandrii: 87 registros | años 1978–2026 | municipios únicos 0 | top municipio: nan (0)
+- Crinodendron patagua: 27 registros | años 1988–2026 | municipios únicos 0 | top municipio: nan (0)
+- Neoporteria castanea: 17 registros | años 1979–2025 | municipios únicos 0 | top municipio: nan (0)
+
+Archivos generados:
+
+- gbif_sp_occurrence_vii_maule.csv
+- gbif_sp_occurrence_vii_resumen.csv
+- gbif_sp_occurrence_vii_maule.kmz
+- gbif_sp_occurrence_vii_maule.gpkg

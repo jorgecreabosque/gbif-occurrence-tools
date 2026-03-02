@@ -1,0 +1,5 @@
+species,n_records,year_min,year_max,n_unique_localities,n_unique_municipalities,top_municipality,top_municipality_n,n_missing_eventDate,n_missing_locality
+Citronella mucronata,1282,1861,2026,61,16,Chanco,603,4,122
+Nothofagus alessandrii,87,1978,2026,9,0,,0,0,64
+Crinodendron patagua,27,1988,2026,1,0,,0,0,25
+Neoporteria castanea,17,1979,2025,1,0,,0,0,16
