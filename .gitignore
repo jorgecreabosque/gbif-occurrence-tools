@@ -1,14 +1,80 @@
-# Entorno virtual
-.venv/
-
-# Python cache
+# =========================
+# Python
+# =========================
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
 
-# Outputs
-*.csv
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Packaging / Build
+# =========================
+build/
+dist/
+develop-eggs/
+.eggs/
+*.egg-info/
+*.egg
+MANIFEST
+
+# =========================
+# Testing / Coverage
+# =========================
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.mypy_cache/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment variables
+# =========================
+.env
+.envrc
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# GIS Outputs
+# =========================
 *.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.qml
 *.kmz
+*.csv
+*.tif
+*.tiff
 
-# ArcGIS
-*.mxd
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
